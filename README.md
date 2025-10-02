@@ -1,6 +1,6 @@
 # devsamurai-treinamento-web
 
-# Frontend - Basico
+## Frontend - Basico
 001 - Programar do Zero - HTML.zip
 002 - Frontend - HTML Básico.zip
 003 - Frontend - Curriculum HTML.zip
